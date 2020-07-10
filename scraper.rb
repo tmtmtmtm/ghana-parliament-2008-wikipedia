@@ -91,5 +91,5 @@ url = 'https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_2008_Ghanaian_pa
 data = Scraped::Scraper.new(url => MembersPage).scraper.members
 
 header = data.first.keys.to_csv
-rows = data.map { |row| row.values.to_csv }
+rows = data.sort_by { |row| row[:constituencyLabel] }.map { |row| row.values.to_csv }
 puts header + rows.join
