@@ -3,11 +3,11 @@ Q17386197,Kobina Tahir Hammond,Adansi-Asokwa,Q4680635,NPP,Q1148441
 Q43597264,Hennric David Yeboah,Afigya Sekyere East,Q4689244,NPP,Q1148441
 Q2638264,Albert Kan-Dapaah,Afigya Sekyere West,Q4689243,NPP,Q1148441
 "",Richard Akuoko Adiyiah,Ahafo Ano North,Q4694906,NPP,Q1148441
-,Stephen Kwaku Balado Manu,Ahafo Ano South,Q4694905,NPP,Q1148441
+Q96881552,Stephen Kwaku Balado Manu,Ahafo Ano South,Q4694905,NPP,Q1148441
 Q61694639,Kwabena Appiah-Pinkrah,Akrofuom,Q4701650,NPP,Q1148441
 Q83688209,Grace Addo,Amansie West,Q4739923,NPP,Q1148441
 Q59180272,Kwame Anyimadu-Antwi,Asante-Akim North,Q4803553,NPP,Q1148441
-,Gifty Ohene-Konadu,Asante-Akim South,Q4803554,NPP,Q1148441
+Q96738477,Gifty Ohene-Konadu,Asante-Akim South,Q4803554,NPP,Q1148441
 Q16733008,Muntaka Mohammed Mabarak,Asawase,Q4803661,NDC,Q200875
 Q20630279,Maxwell Kofi Jumah,Asokwa,Q4807573,NPP,Q1148441
 Q61694734,Kojo Appiah-Kubi,Atwima-Kwanwoma,Q4818854,NPP,Q1148441
@@ -15,21 +15,21 @@ Q33108613,Isaac Kwame Asiamah,Atwima-Mponua,Q4818855,NPP,Q1148441
 Q30688553,Benito Owusu Bio,Atwima-Nwabiagya,Q4818857,NPP,Q1148441
 Q34028884,Cecilia Abena Dapaah,Bantama,Q4857186,NPP,Q1148441
 Q28377798,Joseph Osei-Owusu,Bekwai,Q4881682,Independent,Q327591
-,Nana Yaw Edward Ofori-Kuragu,Bosome-Freho,Q4947436,Independent,Q327591
+"",Nana Yaw Edward Ofori-Kuragu,Bosome-Freho,Q4947436,Independent,Q327591
 Q30318643,Simon Osei Mensah,Bosomtwe,Q4947437,NPP,Q1148441
 Q83987786,Frank Boakye Agyen,Effiduase-Asokore,Q5347452,NPP,Q1148441
 Q35563142,Kwabena Owusu-Aduomi,Ejisu-Juaben,Q5350142,NPP,Q1148441
-,Alhaji Issifu Pangabu Mohammed,Ejura-Sekyedumase,Q5350158,NDC,Q200875
-,Nana Abu Bonsra,Fomena,Q5464918,NPP,Q1148441
-,Yaw Baah,Kumawu,Q6443671,NPP,Q1148441
+"",Alhaji Issifu Pangabu Mohammed,Ejura-Sekyedumase,Q5350158,NDC,Q200875
+Q96879587,Nana Abu Bonsra,Fomena,Q5464918,NPP,Q1148441
+Q96884017,Yaw Baah,Kumawu,Q6443671,NPP,Q1148441
 Q84242003,Kofi Frimpong,Kwabre East,Q6449938,NPP,Q1148441
-,Emmanuel Asamoah Owusu-Ansah,Kwabre West,Q6449939,NPP,Q1148441
+Q1338156,Emmanuel Asamoah Owusu-Ansah,Kwabre West,Q6449939,NPP,Q1148441
 Q31718297,Owusu Afriyie Akoto,Kwadaso,Q16733742,NPP,Q1148441
 Q84312758,Francis Addai-Nimoh,Mampong,Q16733832,NPP,Q1148441
 Q28677017,Mathew Opoku Prempeh,Manhyia,Q6749384,NPP,Q1148441
 Q61692930,Ernest Kofi Yakah,New Edubease,Q7007079,NDC,Q200875
 Q2150918,Richard Winfred Anane,Nhyiaeso,Q7023394,NPP,Q1148441
-,Kwame Osei Prempeh,Nsuta-Kwamang,"",NPP,Q1148441
+Q7067587,Kwame Osei Prempeh,Nsuta-Kwamang,"",NPP,Q1148441
 Q84042853,Edward Michael Ennin,Obuasi,Q7075576,NPP,Q1148441
 Q61694725,Emmanuel Akwasi Gyamfi,Odotobri,Q7078327,NPP,Q1148441
 Q61694720,Augustine Collins Ntim,Offinso North,Q7079628,NPP,Q1148441
@@ -39,12 +39,12 @@ Q572683,Anthony Akoto Osei,Old Tafo,Q7085182,NPP,Q1148441
 Q7106472,Osei Kyei Mensah Bonsu,Suame,Q7630460,NPP,Q1148441
 Q16733874,Isaac Osei,Subin,Q7631335,NPP,Q1148441
 Q84042885,Robert Sarfo-Mensah,Asunafo North,Q4811877,NPP,Q1148441
-,George Boakye,Asunafo South,Q4811879,NPP,Q1148441
+Q5537060,George Boakye,Asunafo South,Q4811879,NPP,Q1148441
 Q33069724,Paul Okoh,Asutifi North,Q4811949,NPP,Q1148441
 Q5147367,Alhaji Collins Dauda,Asutifi South,Q4811952,NDC,Q200875
 Q96890933,Emmanuel Owusu-Mainu,Atebubu-Amantin,Q4812981,NDC,Q200875
 Q61694648,Kwaku Agyenim-Boateng,Berekum,Q4891233,NPP,Q1148441
-,Yaw Ntow Ababio,Dormaa East,Q5298058,NPP,Q1148441
+Q96972023,Yaw Ntow Ababio,Dormaa East,Q5298058,NPP,Q1148441
 Q28741196,Kwaku Agyemang-Manu,Dormaa West,Q5298061,NPP,Q1148441
 Q4718267,Alexander Asum-Ahensah,Jaman North,Q6127712,NDC,Q200875
 Q61694713,Yaw Afful,Jaman South,Q6127714,NPP,Q1148441
@@ -53,17 +53,17 @@ Q84056618,Yaw Effah-Baafi,Kintampo South,Q6414332,NDC,Q200875
 Q35562227,Derrick Oduro,Nkoranza North,Q7042615,NPP,Q1148441
 Q96942954,Kwame Aporfo Twumasi,Nkoranza South,Q7042621,NPP,Q1148441
 "",Masoud Baba Abdul-Rahman,Pru,Q96392200,NDC,Q200875
-,Felix Twumasi-Appiah,Sene,Q16734090,NDC,Q200875
+Q96946997,Felix Twumasi-Appiah,Sene,Q16734090,NDC,Q200875
 Q28606407,Kwasi Ameyaw-Cherimeh,Sunyani East,Q7641757,NPP,Q1148441
 Q1657330,Ignatius Baffour Awuah,Sunyani West,Q7641759,NPP,Q1148441
 Q61694536,Ahmed Ibrahim,Tain,Q7676171,NDC,Q200875
 Q1356193,Ernest Akobuor Debrah,Tano North,Q7683714,NPP,Q1148441
 Q4759057,Andrews Adjei-Yeboah,Tano South,Q7683715,NPP,Q1148441
 Q1086476,Christopher Ameyaw-Akumfi,Techiman North,Q7692201,NPP,Q1148441
-,Simons Addai,Techiman South,Q7692202,NDC,Q200875
+Q96961051,Simons Addai,Techiman South,Q7692202,NDC,Q200875
 Q33634856,George Yaw Gyan-Baffuor,Wenchi,Q7982337,NPP,Q1148441
 Q84043497,Anthony Christian Dadzie,Abura-Asebu-Kwamankese,Q4670647,NDC,Q200875
-,John Agyabeng,Agona East,Q4693337,NPP,Q1148441
+Q96943363,John Agyabeng,Agona East,Q4693337,NPP,Q1148441
 Q96943509,Samuel Kweku Obodai,Agona West,Q4693339,NPP,Q1148441
 Q61694564,Cassiel Ato Forson,Ajumako-Enyan-Essiam,Q4699979,NDC,Q200875
 Q16151885,Paul Collins Appiah-Ofori,Asikuma-Odoben-Brakwa,Q4806950,NPP,Q1148441
@@ -74,47 +74,47 @@ Q81100279,Ebo Barton-Odro,Cape Coast,Q5034660,NDC,Q200875
 Q6847118,Mike Allen Hammah,Effutu,Q5347532,NDC,Q200875
 Q83965615,Ekow Panyin Okyere Eduamoah,Gomoa East,Q5581219,NDC,Q200875
 Q84042214,Francis Kojo Arthur,Gomoa West,Q5581218,NDC,Q200875
-,Rev. Benjamin Bimpong Donkor,Hemang Lower Denkyria,Q16257524,NPP,Q1148441
+Q96942465,Benjamin Bimpong Donkor,Hemang Lower Denkyria,Q16257524,NPP,Q1148441
 Q96943440,Joseph Samuel Annan,Komenda-Edina-Eguafo-Abirem,Q6428296,NDC,Q200875
-,George Kuntu Blankson,Mfanstsiman East,Q6826778,NDC,Q200875
+"",George Kuntu Blankson,Mfanstsiman East,Q6826778,NDC,Q200875
 Q16146980,Aquinas Tawiah Quansah,Mfantsiman West,Q6826779,NDC,Q200875
-,Elizabeth Amoah Tetteh,Twifo-Atti Morkwaa,Q7857919,NDC,Q200875
+"",Elizabeth Amoah Tetteh,Twifo-Atti Morkwaa,Q7857919,NDC,Q200875
 Q61694670,Nana Amoakoh,Upper Denkyria East,Q7898606,NPP,Q1148441
 Q83992804,Benjamin Kofi Ayeh,Upper Denkyria West,Q7898607,NPP,Q1148441
 Q34201755,Peter Wiafe Pepera,Abetifi,Q4667241,NPP,Q1148441
 Q1370096,Esther Obeng Dapaah,Abirem,Q4667918,NPP,Q1148441
 Q35562144,Osei Bonsu Amoah,Aburi-Nsawam,Q4670661,NPP,Q1148441
 Q42304491,Emmanuel Aboagye Didieye,Afram Plains North,Q4689425,NDC,Q200875
-,Raphael Kofi Ahaligah,Afram Plains South,Q4689426,NDC,Q200875
-,Samuel Kwadwo Amoako,Akim Abuakwa North,Q4701010,NPP,Q1148441
+"",Raphael Kofi Ahaligah,Afram Plains South,Q4689426,NDC,Q200875
+Q96989295,Samuel Kwadwo Amoako,Akim Abuakwa North,Q4701010,NPP,Q1148441
 Q33129374,Samuel Atta Akyea,Akim Abuakwa South,Q4701011,NPP,Q1148441
 Q84589649,Yaw Owusu-Boateng,Akim Oda,Q4701018,NPP,Q1148441
-,Joseph Ampomah Bosompem,Akim Swedru,Q4701025,NPP,Q1148441
+Q96945314,Joseph Ampomah Bosompem,Akim Swedru,Q4701025,NPP,Q1148441
 Q84041410,William Ofori Boafo,Akropong,Q4701713,NPP,Q1148441
 "",Kofi Asare,Akwatia,Q4702014,NPP,Q1148441
-,Joses Asare-Akoto,Asuogyaman,Q4811893,NDC,Q200875
+"",Joses Asare-Akoto,Asuogyaman,Q4811893,NDC,Q200875
 Q33134757,Kwasi Annoh Ankama,Atiwa,Q4815867,NPP,Q1148441
 Q61694785,Samuel Ayeh-Paye,Ayensuano,Q4831153,NPP,Q1148441
 Q61694638,Kwabena Amankwah Asiamah,Fanteakwa,Q16733509,NPP,Q1148441
 Q84256302,Ofosu Asamoah,Kade,Q6345317,NPP,Q1148441
-,Michael Teye Nyuanu,Lower Manya,Q16733819,NDC,Q200875
+"",Michael Teye Nyuanu,Lower Manya,Q16733819,NDC,Q200875
 Q26210996,Gifty Klenam,Lower West Akim,Q6693895,NPP,Q1148441
 Q61694701,Seth Kwame Acheampong,Mpraeso,Q16733878,NPP,Q1148441
 Q1567260,Hackman Owusu-Agyeman,New Juaben North,Q16733927,NPP,Q1148441
 Q96782302,Beatrice Bernice Boateng,New Juaben South,Q16733929,NPP,Q1148441
-,Seth Adjei Baah,Nkawkaw,Q7042541,Independent,Q327591
-,David Oppon-Kusi,Ofoase-Ayirebi,Q7079760,NPP,Q1148441
+"",Seth Adjei Baah,Nkawkaw,Q7042541,Independent,Q327591
+Q84589645,David Oppon-Kusi,Ofoase-Ayirebi,Q7079760,NPP,Q1148441
 Q1160142,Dan Botwe,Okere,Q7081942,NPP,Q1148441
 Q61674636,Frederick Opare-Ansah,Suhum,Q7635269,NPP,Q1148441
 Q7608586,Stephen Amoanor Kwao,Upper Manya,Q7898771,NDC,Q200875
 Q16148840,Joseph Sam Amankwanor,Upper West Akim,Q7899007,NDC,Q200875
-,Raymond Tawiah,Yilo Krobo,Q8053610,NDC,Q200875
+"",Raymond Tawiah,Yilo Krobo,Q8053610,NDC,Q200875
 Q84561719,Theophilus Tettey Chaie,Ablekuma Central,Q4668084,NDC,Q200875
 Q84561706,Justice Joe Appiah,Ablekuma North,Q4668086,NPP,Q1148441
 Q5504853,Fritz Baffour,Ablekuma South,Q4668085,NDC,Q200875
 Q84496267,Amadu Bukari Sorogho,Abokobi-Madina,Q4668231,NDC,Q200875
 Q4717883,Alex Narh Tettey-Enyo,Ada,Q4678215,NDC,Q200875
-,Kojo Adu Asare,Adenta,Q4682308,NDC,Q200875
+Q96876095,Kojo Adu Asare,Adenta,Q4682308,NDC,Q200875
 Q28867963,Alfred Kwame Agbesi,Ashaiman,Q4804541,NDC,Q200875
 Q1170146,Sheikh Ibrahim Cudjoe Quaye,Ayawaso Central,Q4831000,NPP,Q1148441
 Q84561754,Mustapha Ahmed,Ayawaso East,Q4831001,NDC,Q200875
@@ -125,63 +125,63 @@ Q84561484,Daoud Anum Yemoh,Domeabra-Obom,Q5290023,NPP,Q1148441
 Q16144551,Nii Armah Ashietey,Korle Klottey,Q6432362,NDC,Q200875
 Q16733693,Joseph Nii Laryea Afotey Agbo,Kpone-Katamanso,Q6435736,NDC,Q200875
 Q84504816,Nii Oakley Quaye-Kumah,Krowor,Q6439122,NDC,Q200875
-,Nii Nortey Duah,Ledzokuku,Q6512796,NDC,Q200875
+"",Nii Nortey Duah,Ledzokuku,Q6512796,NDC,Q200875
 Q5379334,Enoch Teye Mensah,Ningo-Prampram,Q7038712,NDC,Q200875
 Q16730975,Jonathan Nii Tackie Komey,Odododiodoo,Q7077899,NDC,Q200875
 Q26923629,Elizabeth K. T. Sackey,Okaikwei North,Q7081731,NPP,Q1148441
 Q1964413,Nana Akomea,Okaikwei South,Q7081734,NPP,Q1148441
-,Alfred Wallace Gbordzor Abayateye,Sege,Q7446217,NDC,Q200875
+"",Alfred Wallace Gbordzor Abayateye,Sege,Q7446217,NDC,Q200875
 Q84433467,David Tetteh Assumeng,Shai-Osudoku,Q7462373,NDC,Q200875
-,Samuel Evans Ashong Narh,Tema East,Q7697957,NPP,Q1148441
+Q96871406,Samuel Evans Ashong Narh,Tema East,Q7697957,NPP,Q1148441
 Q26896896,Irene Naa Torshie Addo,Tema West,Q7697965,NPP,Q1148441
-,Ernest Attuquaye Armah,Trobu-Amasaman,Q7844806,NDC,Q200875
+Q97006482,Ernest Attuquaye Armah,Trobu-Amasaman,Q7844806,NDC,Q200875
 Q26923626,Shirley Ayorkor Botchway,Weija,Q7980171,NPP,Q1148441
 Q30323575,Dominic Aduna Bingab Nitiwul,Bimbilla,Q4913713,NPP,Q1148441
 Q65030549,Joseph Akati Saaka,Bole,Q4939130,NDC,Q200875
-,Duut Emmanuel Kwame,Bunkpurugu-Yunyoo,Q4997789,NDC,Q200875
+Q97057351,Duut Emmanuel Kwame,Bunkpurugu-Yunyoo,Q4997789,NDC,Q200875
 Q94962941,Doris Asibi Seidu,Chereponi,Q5091889,NPP,Q1148441
 "",Sammy B. Wusah,Damango-Daboya,Q5211956,NDC,Q200875
 Q84413710,Thomas Kwesi Nasah,Gushiegu,Q5620884,NDC,Q200875
 "",Iddrisu Dawuda,Karaga,Q6367883,NDC,Q200875
-,Lipkalimor Kwajo Tawiah,Kpandai,Q6435709,NDC,Q200875
+"",Lipkalimor Kwajo Tawiah,Kpandai,Q6435709,NDC,Q200875
 Q16730044,Imoro Yakubu Kakpagu,Kumbungu,Q6443775,NDC,Q200875
 Q84413685,Ahmed Alhassan Yakubu,Mion,Q16733862,NDC,Q200875
 Q84044575,Tia Alfred Sugri,Nalerigu,Q6960868,NDC,Q200875
-,Alhaji. Iddrisu Abdul-Kareem,Nanton,Q6964339,NPP,Q1148441
+Q97011245,Alhaji. Iddrisu Abdul-Kareem,Nanton,Q6964339,NPP,Q1148441
 Q84411268,Bukari Nikpe Joseph,Saboba,Q7396276,NDC,Q200875
 Q84411267,Ibrahim Dey Abubakari,Salaga,Q7403417,NDC,Q200875
 Q26924332,Mary Salifu Boforo,Savelugu,Q7428159,NDC,Q200875
 Q84411263,Donald Dari Soditey,Sawla-Tuna-Kalba,Q7428652,NDC,Q200875
 Q16194544,Inusah Fuseini,Tamale Central,Q7680587,NDC,Q200875
-,Alhaji. Abubakari Sumani,Tamale North,Q16734140,NDC,Q200875
+Q96961860,Alhaji. Abubakari Sumani,Tamale North,Q16734140,NDC,Q200875
 Q16211514,Haruna Iddrisu,Tamale South,Q7680589,NDC,Q200875
 Q97012427,Umar Abdul-Razak,Tolon,Q7814568,NDC,Q200875
 "",Iddrisu Zakari Alidu,Walewale,Q7961848,NDC,Q200875
 ,Alhaji. Saani Iddi,Wulensi,Q8039154,Independent,Q327591
 Q61694762,Abdul-Rauf Tanko Ibrahim,Yagaba-Kubori,Q8046669,NDC,Q200875
 Q83887901,Amadu Seidu,Yapei-Kusawgu,Q8049104,NDC,Q200875
-,Sulemana Ibun Iddrisu,Yendi,Q8052212,NDC,Q200875
+"",Sulemana Ibun Iddrisu,Yendi,Q8052212,NDC,Q200875
 Q84355093,Jabaah John Bennam,Zabzugu-Tatale,Q8063651,NPP,Q1148441
-,Adamu Dramani,Bawku Central,Q4873784,NPP,Q1148441
+"",Adamu Dramani,Bawku Central,Q4873784,NPP,Q1148441
 Q33066467,Stephen Yakubu,Binduri,Q4914066,NPP,Q1148441
 Q84321424,Akolbire Emmanuel Opam-Brown,Bolgatanga,Q4939409,NDC,Q200875
 Q4709599,Albert Abongo,Bongo,Q16255147,NDC,Q200875
-,Timothy Awotiirim Ataboadey,Builsa North,Q4986660,NDC,Q200875
+Q97012341,Timothy Awotiirim Ataboadey,Builsa North,Q4986660,NDC,Q200875
 Q4724464,Alhassan Azong,Builsa South,Q4986662,PNC,Q2069628
 ,Allowe Leo Kabah,Chiana-Paga,Q5095166,NPP,Q1148441
 Q84322834,Dominic Azimbe Azumah,Garu - Tempane,Q5524454,NDC,Q200875
 Q6915695,Moses Aduku Asaga,Nabdam,Q16733886,NDC,Q200875
 Q1451907,Joseph Kofi Adda,Navrongo Central,Q6982566,NPP,Q1148441
-,Simon Atingban Akunye,Pusiga,Q7261871,NDC,Q200875
+Q97012334,Simon Atingban Akunye,Pusiga,Q7261871,NDC,Q200875
 Q6260811,John Akologu Tia,Talensi,Q7679170,NDC,Q200875
 Q5131978,Cletus Apul Avoka,Zebilla,Q8068264,NDC,Q200875
 Q5345199,Edward Salia,Jirapa,Q6202988,NDC,Q200875
-,John Duoghr Baloroo,Lambussie,Q6481622,NPP,Q1148441
+Q96942676,John Duoghr Baloroo,Lambussie,Q6481622,NPP,Q1148441
 Q459187,Ambrose P. Dery,Lawra-Nandom,Q6503728,NPP,Q1148441
 Q83890910,Puozaa Mathias Asuma,Nadowli East,Q6957957,NDC,Q200875
 Q2637206,Alban Sumana Kingsford Bagbin,Nadowli West,Q16733888,NDC,Q200875
-,Alhassan Dubie Halutie,Sissala East,Q7530927,NDC,Q200875
-,Haruna Bayirga,Sissala West,Q7530929,PNC,Q2069628
+Q97050729,Alhassan Dubie Halutie,Sissala East,Q7530927,NDC,Q200875
+Q96901754,Haruna Bayirga,Sissala West,Q7530929,PNC,Q2069628
 Q4665233,Abdul-Rashid Hassan Pelpuo,Wa Central,Q7958540,NDC,Q200875
 Q61694611,Godfrey Tangu Bayon,Wa East,Q7958539,NPP,Q1148441
 Q1708293,Joseph Yieleh Chireh,Wa West,Q7958545,NDC,Q200875
@@ -191,36 +191,36 @@ Q5341508,Edward Korbly Doe Adjaho,Avenor-Ave,Q4828148,NDC,Q200875
 Q84080498,Emmanuel Kwasi Bandua,Biakoye,Q4902438,NDC,Q200875
 Q5721427,Henry Ford Kamel,Buem,Q4985383,NDC,Q200875
 Q16219412,Joe Kwashie Gidisu,Central Tongu,Q5061918,NDC,Q200875
-,Capt (rtd.) George Kofi Nfodjoh,Ho Central,Q16733629,NDC,Q200875
+Q96843961,George Kofi Nfodjoh,Ho Central,Q16733629,NDC,Q200875
 Q6307729,Juliana Azumah-Mensah,Ho East,Q5874037,NDC,Q200875
 Q61694590,Emmanuel Kwasi Bedzrah,Ho West,Q5874197,NDC,Q200875
-,Prince Jacob Hayibor,Hohoe North,Q5877676,NDC,Q200875
+Q96807107,Prince Jacob Hayibor,Hohoe North,Q5877676,NDC,Q200875
 Q1409254,Joseph Zaphenat Amenowode,Hohoe South,Q5877679,NDC,Q200875
-,Richard Lassey Agbenyefia,Keta,Q6395291,NDC,Q200875
+Q96793375,Richard Lassey Agbenyefia,Keta,Q6395291,NDC,Q200875
 Q61694615,James Klutse Avedzi,Ketu North,Q6395584,NDC,Q200875
 "",Albert Kwasi Zigah,Ketu South,Q6395587,NDC,Q200875
 Q83796205,Wisdom Gidisu,Krachi East,Q6435772,NDC,Q200875
-,Francis Y. Osei Sarfo,Krachi West,Q6435773,NDC,Q200875
-,Joseph K. Nayan,Nkwanta North,Q7042673,NPP,Q1148441
+Q96845939,Francis Y. Osei Sarfo,Krachi West,Q6435773,NDC,Q200875
+Q96840763,Joseph K. Nayan,Nkwanta North,Q7042673,NPP,Q1148441
 Q84080560,Gershon Kofi Bediako Gbediame,Nkwanta South,Q7042676,NDC,Q200875
 Q4701911,Akua Sena Dansua,North Dayi,Q7055106,NDC,Q200875
-,Charles Hodogbey,North Tongu,Q7057019,NDC,Q200875
+"",Charles Hodogbey,North Tongu,Q7057019,NDC,Q200875
 Q83743992,Simon Edem Asimah,South Dayi,Q7567020,NDC,Q200875
-,Woyome Kobla Mensah,South Tongu,Q7568665,NDC,Q200875
-,Samuel Johnfiah,Ahanta West,Q4694967,NPP,Q1148441
+Q96791871,Woyome Kobla Mensah,South Tongu,Q7568665,NDC,Q200875
+Q96762095,Samuel Johnfiah,Ahanta West,Q4694967,NPP,Q1148441
 Q61679889,George Kofi Arthur,Amenfi Central,Q4742406,NDC,Q200875
 Q1706633,Joseph Baiden-Aidoo,Amenfi East,Q4742408,NPP,Q1148441
-,John Gyetuah,Amenfi West,Q4742410,NDC,Q200875
+Q61680053,John Gyetuah,Amenfi West,Q4742410,NDC,Q200875
 Q61694736,Mathias Kwame Ntow,Aowin,Q4778823,NDC,Q200875
 Q61679879,Michael Coffie Boampong,Bia,Q4902392,NDC,Q200875
-,Christopher Addae,Bibiani-Anhwiaso-Bekwai,Q4903042,NPP,Q1148441
+Q96785427,Christopher Addae,Bibiani-Anhwiaso-Bekwai,Q4903042,NPP,Q1148441
 Q1691326,Joe Baidoo-Ansah,Effia-Kwesimintsim,Q5347420,NPP,Q1148441
 Q5373131,Emmanuel Armah Kofi Buah,Ellembelle,Q5364703,NDC,Q200875
 Q1691433,Joe Ghartey,Essikado-Ketan,Q5399903,NPP,Q1148441
 Q31751713,Catherine Afeku,Evalue Gwira,Q5415296,NPP,Q1148441
 Q7409415,Samia Nkrumah,Jomoro,Q6270229,CPP,Q1129392
 Q61694693,Sampson Ahi,Juabeso,Q6298720,NDC,Q200875
-,Anthony Evans Amoah,Mpohor-Wassa East,Q6928295,NPP,Q1148441
+Q96786629,Anthony Evans Amoah,Mpohor-Wassa East,Q6928295,NPP,Q1148441
 Q84039942,Francis Adu-Blay Koffie,Prestea-Huni Valley,Q7241764,NDC,Q200875
 Q83970530,Herod Cobbina,Sefwi-Akontombra,Q7446134,NDC,Q200875
 Q2059474,Paul Evans Aidoo,Sefwi-Wiawso,Q7446135,NDC,Q200875
